@@ -209,12 +209,11 @@ Effective Model Building: Develop and train a decision tree classifier to predic
 Practical Deployment: Provide guidelines on deploying and using the model to facilitate decision-making and operational efficiency within banking environments.
 
   # Screenshort of sample output
-![Screenshot (48)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/ac308a8d-16f5-4132-90a2-9e43c6d01a51)
-
-![Screenshot (49)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/f455576b-560a-4b77-bf2b-174118ab297f)
-![Screenshot (50)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/b35464f2-8dcc-4b4b-b209-2381be24dd3c)
-![Screenshot (51)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/8ca8896f-c754-4684-a7aa-043ad4db0a12)
-![Screenshot (52)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/7521ae5a-4fcc-4bfe-860b-e675c5024035)
-![Screenshot (69)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/90d485f5-369f-4b0f-bddc-c4cee45975a0)
-![Screenshot (53)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/b2872894-ade6-4418-b7ec-279943a9e31f)
-![Screenshot (59)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing-Data-Predictive-Analysis-of-Bank-Marketing-Data/assets/172358250/50801d10-1882-4547-9c2d-e44fb99db488)
+![Screenshot (48)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/36b6276d-8fa0-4bae-b9f0-4a73d09adb36)
+![Screenshot (49)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/ac2d0100-c791-49f3-b482-e44f744352fa)
+![Screenshot (51)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/d47ba254-da1d-439d-b624-bbe66f2f4fd0)
+![Screenshot (53)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/82c71533-0d69-42f8-882e-b52d4aae69ac)
+![Screenshot (56)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/6a487f37-1ac5-48ca-9397-5f5b54b63569)
+![Screenshot (69)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/683db6e2-0bcf-40af-9b66-a8d44bcd4ddb)
+![Screenshot (65)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/de86456f-1c0a-481a-99fb-911acb377077)
+![Screenshot (59)](https://github.com/KartikyeThakur/Predictive-Analysis-of-Bank-Marketing/assets/172358250/fe4c4a54-d70e-460a-aa7f-02614edbce41)
